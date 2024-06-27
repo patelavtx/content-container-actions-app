@@ -1,5 +1,3 @@
-# make the file executable
-chmod +x entrypoint.sh
 
 #!/bin/sh -l
 
