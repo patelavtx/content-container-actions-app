@@ -22,4 +22,11 @@ with:
   who-to-greet: 'Mona the Octocat'
 ```
 
-Test1
+##  Errors seen
+
+(1)  - Due to entrypoint.sh  'shebang' line starting at line 2 instead of line1
+```
+exec /entrypoint.sh: exec format error
+```
+
+
